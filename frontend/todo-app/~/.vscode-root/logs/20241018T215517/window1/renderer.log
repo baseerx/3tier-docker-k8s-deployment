@@ -1,0 +1,6 @@
+2024-10-18 21:55:19.506 [info] Started local extension host with pid 10776.
+2024-10-18 21:55:19.546 [info] Started initializing default profile extensions in extensions installation folder. file:///root/.vscode/extensions
+2024-10-18 21:55:19.772 [info] Completed initializing default profile extensions in extensions installation folder. file:///root/.vscode/extensions
+2024-10-18 21:55:22.510 [info] [perf] Render performance baseline is 27ms
+2024-10-18 22:48:26.776 [error] [network] #16: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Canceled
+2024-10-18 22:48:26.776 [error] [network] #15: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Canceled

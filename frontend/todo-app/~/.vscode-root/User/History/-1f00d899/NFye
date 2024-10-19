@@ -1,0 +1,19 @@
+# Use Node.js image
+FROM node:16
+
+# Create and set the working directory
+WORKDIR /app
+
+# Copy the React app files
+COPY . .
+
+# Install dependencies
+RUN npm install
+
+# Build the app
+RUN npm run build
+
+# Serve the app
+RUN npm install
+CMD ["npm","start"]
+

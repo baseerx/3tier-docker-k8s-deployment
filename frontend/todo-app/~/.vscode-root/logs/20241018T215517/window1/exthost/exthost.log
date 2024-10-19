@@ -1,0 +1,17 @@
+2024-10-18 21:55:20.020 [info] Extension host with pid 10776 started
+2024-10-18 21:55:20.020 [info] Skipping acquiring lock for /home/baseer/Apps/DevOps/K8s-Deployment/frontend/todo-app/~/.vscode-root/User/workspaceStorage/170fc6fb1d2f07d6abdfaa845f3c2502.
+2024-10-18 21:55:20.179 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-10-18 21:55:20.187 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2024-10-18 21:55:20.337 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-10-18 21:55:20.406 [info] Eager extensions activated
+2024-10-18 21:55:20.426 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-10-18 21:55:20.429 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-10-18 21:55:23.750 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2024-10-18 21:55:25.455 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-10-18 21:55:25.469 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-10-18 21:55:25.481 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2024-10-18 21:55:25.537 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-10-18 21:55:46.519 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2024-10-18 22:48:34.774 [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-docker, startup: false, activationEvent: 'onLanguage:dockerfile'
+2024-10-18 23:15:05.480 [info] Extension host terminating: renderer closed the MessagePort
+2024-10-18 23:15:05.651 [info] Extension host with pid 10776 exiting with code 0
